@@ -1,5 +1,4 @@
-# morse-code
-Morse decoder/encoder
+# Morse decoder/decoder 
 
 To use this program, do:  
 `python3 main.py`  
